@@ -1,0 +1,15 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment and dependencies
+deploy/
+.env
+*.sqlite3
+
+# Flask-specific files
+instance/
+
+# System-specific files
+.DS_Store
